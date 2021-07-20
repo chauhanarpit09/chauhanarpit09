@@ -5,12 +5,12 @@
 ![](https://komarev.com/ghpvc/?username=chauhanarpit09&color=blueviolet&label=Profile+Views)
 <a href="https://www.linkedin.com/in/arpit-chauhan-6115b4171/">
 <img alt="ArpitChauhan | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> <a href="https://arpit09chauhan.medium.com/" target="_blank">
+</a> 
+<a href="https://arpit09chauhan.medium.com/" target="_blank">
+<img alt="ArpitChauhan | LinkedIN"  src="https://img.shields.io/badge/Medium-%23344955.svg?&style=for-the-badge&logo=Medium&logoColor=black" />  
 </a>
 <a href="">
 <img alt="ArpitChauhan | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-
-  
 </a>
 </p>
 <br>
