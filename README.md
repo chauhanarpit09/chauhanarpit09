@@ -1,16 +1,25 @@
 ### Hey There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
 
-<p align="center">
+<p>
   
-![](https://komarev.com/ghpvc/?username=chauhanarpit09&color=blueviolet&label=Profile+Views)
-<a href="https://www.linkedin.com/in/arpit-chauhan-6115b4171/">
-<img alt="ArpitChauhan | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
-<a href="https://arpit09chauhan.medium.com/" target="_blank">
-<img alt="ArpitChauhan | LinkedIN"  src="https://img.shields.io/badge/Medium-%23344955.svg?&style=for-the-badge&logo=Medium&logoColor=black" />  
+![](https://komarev.com/ghpvc/?username=chauhanarpit09&color=blueviolet&label=Profile+Views)<br/>
+
+<a >
 </a>
-<a href="">
-<img alt="ArpitChauhan | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.linkedin.com/in/arpit-chauhan-6115b4171/">
+  <img alt="ArpitChauhan | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="https://arpit09chauhan.medium.com/">
+  <img alt="ArpitChauhan | Medium"  src="https://img.shields.io/badge/Medium-%23344955.svg?&style=for-the-badge&logo=Medium&logoColor=black" />  
+</a>
+<a href="https://www.gitshowcase.com/chauhanarpit09">
+  <img alt="ArpitChauhan | Gitshowcase"  src="https://img.shields.io/badge/GitShowCase-%2391ffa3.svg?&style=for-the-badge&logo=GitHub&logoColor=black" />
+</a>
+  <a href="https://leetcode.com/arpit09chauhan/">
+<img alt="ArpitChauhan | leetcode"  src="https://img.shields.io/badge/LeetCode-%23FB8C00.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/arpit09chauhan?hr_r=1">
+  <img alt="ArpitChauhan | Hackerank"  src="https://img.shields.io/badge/HackerRank-%231ba94c.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 </p>
 <br>
